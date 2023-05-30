@@ -4,8 +4,8 @@ This repository provides a code snippet to perform quick data exploration using 
 
 ## Setup
 
-1. Install the necessary dependencies:
-    - [Microsoft Azure](https://azure.microsoft.com/)
+1. Read More About Microsoft Fabric and Apache Spark Here:
+    - [Microsoft Fabric Apache Spark](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/4-dataframe)
     - [Microsoft Fabric](https://fabric.microsoft.com/)
 
 2. Clone this repository:
